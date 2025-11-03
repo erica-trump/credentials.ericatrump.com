@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/security/multikey/v1",
+  "id": "https://credentials.ericatrump.com/keys/issuer-key-20251103-155646",
+  "type": "Multikey",
+  "controller": "https://credentials.ericatrump.com/issuer.json",
+  "publicKeyMultibase": "z6Mkh3MfiCnREzekGosdqaiBkouNVh33f6LdSZJYbn5RW4i8"
+}
