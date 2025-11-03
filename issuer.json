@@ -1,0 +1,21 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/credentials/v2",
+    "https://purl.imsglobal.org/spec/ob/v3p0/context.json"
+  ],
+  "type": ["Issuer"],
+  "id": "https://credentials.ericatrump.com/issuer.json",
+  "name": "Erica Trump Consulting, LLC",
+  "url": "https://ericatrump.com",
+  "email": "contact@ericatrump.com",
+  "description": "Issuer of AI and learning credentials through Open Badges and Verifiable Credentials standards.",
+  "image": "https://ericatrump.com/logo.png",
+  "publicKey": [
+    {
+      "id": "https://credentials.ericatrump.com/keys/issuer-key",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "https://credentials.ericatrump.com/issuer.json",
+      "publicKeyMultibase": "z6MklXYg0Rcgla0eDLvR31xaxJdUHuvzvD39XrTplO5hTvM"
+    }
+  ]
+}
