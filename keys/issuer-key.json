@@ -3,5 +3,5 @@
   "id": "https://credentials.ericatrump.com/keys/issuer-key",
   "type": "Multikey",
   "controller": "https://credentials.ericatrump.com/issuer.json",
-  "publicKeyMultibase": "z6MklXYg0Rcgla0eDLvR31xaxJdUHuvzvD39XrTplO5hTvM"
+  "publicKeyMultibase": "z6MkpWhGMnbuH11UP3UjU6CHiYPkQ1XL19xVmtpAZCq78u2r"
 }
