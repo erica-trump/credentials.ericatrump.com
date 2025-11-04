@@ -14,6 +14,12 @@
   "image": "https://ericatrump.com/logo.png",
   "publicKey": [
     {
+      "id": "https://credentials.ericatrump.com/keys/issuer-key-20251104-051000.json",
+      "type": "JsonWebKey",
+      "controller": "https://credentials.ericatrump.com/issuer.json",
+      "kid": "ZX851QoJ2nqycr6rAcAH-NHsi5uOtzfk8YIwSUXtm9I"
+    },
+    {
       "id": "https://credentials.ericatrump.com/keys/issuer-key-20251104-044334.json",
       "type": "JsonWebKey",
       "controller": "https://credentials.ericatrump.com/issuer.json",
