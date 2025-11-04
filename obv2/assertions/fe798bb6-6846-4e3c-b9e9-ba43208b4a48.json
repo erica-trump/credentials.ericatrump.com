@@ -4,8 +4,8 @@
   "id": "https://credentials.ericatrump.com/obv2/assertions/fe798bb6-6846-4e3c-b9e9-ba43208b4a48.json",
   "recipient": {
     "type": "email",
-    "hashed": false,
-    "identity": "mailto:erica.trump@gmail.com"
+    "identity": "erica.trump@gmail.com",
+    "hashed": false
   },
   "badge": "https://credentials.ericatrump.com/obv2/badgeclasses/complete-ml-master.json",
   "verification": {
