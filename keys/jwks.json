@@ -2,37 +2,31 @@
   "keys": [
     {
       "kty": "RSA",
-      "n": "qZStzf8YKeii569krf4v9LRCadZ8sLDCAT0brzEuX-cNal7bQG2T92gNjRxmm3-j3vmej_8_LV1l1BErNO8Im-dWDTT0FVOYMY4bwobtcTPiFegJkJmFqGIkKaKT7tm01v9trlje3NXsJuTn_3UA32rsRlJPlikbwFEOQ9uQOqhFdko0G_ZuTLHUqR-Ur2syGFZq8xYo3IlGPc-e5t8dL4Ibz7R7YzC6UhT7ZIuxyy36w5czACRWJfARg4XvXzSNB5UdH0kpdGYwuFUpenoEXFRMhDQy19NLf0wzGnnBjva7Kyj_BOTsqdxJpKA2oSuvG728bUNxXE3MiPaHIfsJ6w",
+      "n": "rbhTAyL4fuD7zT0fLuzn83dtAdQG1nOH7ecNxcwXyIGldOL1-NA_Fs6E2p_rmfrzY1NpVcaUp_xlhVSNXP1HmvQSmLrs48RsqTzPZUiJOr0AJg9Srjxa_5JV9dmn8axe8tTd91u9puAJEuXzY5ABsh2Po5KJoZX5NTGz6OG8ZF8plLQXwwSWzrjJyhvzK7PIm9GCQTBLkkdsTgN_zJxdkYsduG54XTvlNvcMN1Qi5JvOdTh-O93-PR0EBWW6__NnYAyivoYdb4K1YDGHlA6agipzEcs5jtHKtx1e1Zy3RytuQFLx5uTV98hu0jD4Bbgt2zk3lgcsYRw3caZjhxzUKQ",
       "e": "AQAB",
-      "alg": "RS256",
-      "use": "sig"
-    },
-    {
-      "kty": "RSA",
-      "n": "qo361HZEEs2bLjjv1Orhnn2Z2Z83xbfTX0_3QbloeHgyOA7eVl7e3RREK0inTvAhDrZApqq8mQ-4ll6TRCy9HHqvTib4GX1wDW3qFKaBCnJ53zh1rD5m3lkOPoUZdG67yoz8JjqF2weTNwD7IpvxGuwEWf0-RiLOp8da_2QQrZQHWJLT8doTrkpQ5dc1O-89LsOM9Ib31kibIAZz_duPGz1kzs_6OTrKMN3ns6cODQqQPIpcVmpSUXEvcFCruhJ0iWAD2lw0HD4snLNeP3oP38v9Tb0RMbbzmDBojW7ezhD2I1CmdvRaYd8hK7qCS_b7IT9dXEL3WoGhu7uk1IpURw",
-      "e": "AQAB",
-      "alg": "RS256",
-      "use": "sig"
+      "kid": "https://credentials.ericatrump.com/keys/issuer-key-20251104-003241.json",
+      "alg": "RS256"
     },
     {
       "kty": "RSA",
       "n": "rTpexWNPS2y_z6PLfMB7wGvWwgAV3YCdk_hWtQRFXfZ8BEZIyV8ZJEgFqTtglzNDZ0RqOOOHQ-Xz-GAI1N91Ifypa9lvHehBcb_8khPWll-96AK-jOZi8YnoRvEevNXhb0QeYzyWt_ewf5eCMxVeqXick1INcGRKFz34ARceHPaqB9LvYBgLaiVdS3kwtTw0NADb88MNnFsyPRC2htRrui2-5MbP2ZhVHiEw9rD_niWzm_emAnfNtqZvbmaEhF7_aIR4X2QWSVMKEGEzh4G3gmnCWbQ8DS2zQggo--5X9jI2295ej7Jxjs4rzJSoFFRaQCsAyy1L2VXKdL25M0eSoQ",
       "e": "AQAB",
-      "alg": "RS256",
-      "use": "sig"
+      "kid": "https://credentials.ericatrump.com/keys/issuer-key-20251104-003459.json",
+      "alg": "RS256"
     },
     {
       "kty": "RSA",
-      "n": "rbhTAyL4fuD7zT0fLuzn83dtAdQG1nOH7ecNxcwXyIGldOL1-NA_Fs6E2p_rmfrzY1NpVcaUp_xlhVSNXP1HmvQSmLrs48RsqTzPZUiJOr0AJg9Srjxa_5JV9dmn8axe8tTd91u9puAJEuXzY5ABsh2Po5KJoZX5NTGz6OG8ZF8plLQXwwSWzrjJyhvzK7PIm9GCQTBLkkdsTgN_zJxdkYsduG54XTvlNvcMN1Qi5JvOdTh-O93-PR0EBWW6__NnYAyivoYdb4K1YDGHlA6agipzEcs5jtHKtx1e1Zy3RytuQFLx5uTV98hu0jD4Bbgt2zk3lgcsYRw3caZjhxzUKQ",
+      "n": "qo361HZEEs2bLjjv1Orhnn2Z2Z83xbfTX0_3QbloeHgyOA7eVl7e3RREK0inTvAhDrZApqq8mQ-4ll6TRCy9HHqvTib4GX1wDW3qFKaBCnJ53zh1rD5m3lkOPoUZdG67yoz8JjqF2weTNwD7IpvxGuwEWf0-RiLOp8da_2QQrZQHWJLT8doTrkpQ5dc1O-89LsOM9Ib31kibIAZz_duPGz1kzs_6OTrKMN3ns6cODQqQPIpcVmpSUXEvcFCruhJ0iWAD2lw0HD4snLNeP3oP38v9Tb0RMbbzmDBojW7ezhD2I1CmdvRaYd8hK7qCS_b7IT9dXEL3WoGhu7uk1IpURw",
       "e": "AQAB",
-      "alg": "RS256",
-      "use": "sig"
+      "kid": "https://credentials.ericatrump.com/keys/issuer-key-20251104-044334.json",
+      "alg": "RS256"
     },
     {
       "kty": "RSA",
-      "alg": "RS256",
-      "use": "sig",
-      "kid": "https://credentials.ericatrump.com/keys/issuer-key-20251103-155646"
+      "n": "qZStzf8YKeii569krf4v9LRCadZ8sLDCAT0brzEuX-cNal7bQG2T92gNjRxmm3-j3vmej_8_LV1l1BErNO8Im-dWDTT0FVOYMY4bwobtcTPiFegJkJmFqGIkKaKT7tm01v9trlje3NXsJuTn_3UA32rsRlJPlikbwFEOQ9uQOqhFdko0G_ZuTLHUqR-Ur2syGFZq8xYo3IlGPc-e5t8dL4Ibz7R7YzC6UhT7ZIuxyy36w5czACRWJfARg4XvXzSNB5UdH0kpdGYwuFUpenoEXFRMhDQy19NLf0wzGnnBjva7Kyj_BOTsqdxJpKA2oSuvG728bUNxXE3MiPaHIfsJ6w",
+      "e": "AQAB",
+      "kid": "https://credentials.ericatrump.com/keys/issuer-key-20251104-051000.json",
+      "alg": "RS256"
     }
   ]
 }
