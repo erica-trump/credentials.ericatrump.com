@@ -18,6 +18,7 @@
       "type": "JsonWebKey",
       "controller": "https://credentials.ericatrump.com/issuer.json",
       "publicKeyJwk": {
+        "id": "https://credentials.ericatrump.com/keys/issuer-key-20251104-061959.json",
         "kty": "RSA",
         "n": "qNnJBK3WCFitJOvRNS2ztAvzGYAbbqDscsDd4sMIsrHHFna2tzJdUsFfvLqmTSVErNq3bPewlfFbnbkwohvFK1CsKBhJCTn0WONhTgSkp9xlVDZMN2oIzTZVj-6wYpjOhjdvIKJE2oHelAzrwrGF6D7r4O4jlnTKtmlE2vM50SWjihJhj8YauDuZvW2pBNW5DDsMtJxUpqSHqK-OMg2WYwQ8v0rOEoh0flZG3WlnZdtq4Zkabo854plOamB8-VE3JH99TVNX03SDNAKT92L-IbyZaCZOEcyuL2duq8GsrZ8bMArnqqh5HCQusIKp1aqWht-yyIRupeOxpUdPLnczLQ",
         "e": "AQAB",
