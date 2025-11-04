@@ -1,0 +1,11 @@
+{
+    "id": "https://credentials.ericatrump.com/obv2/badgeclasses/complete-ml-master.json",
+    "type": "BadgeClass",
+    "name": "Complete ML Master",
+    "description": "Mastery verified through assessments and projects.",
+    "image": "https://tomato-historical-gull-824.mypinata.cloud/ipfs/bafybeifbbrswpzzx7stexllwrhcs2gaqvqpt2chnf5haqqwhljnyxoq2gy",
+    "criteria": {
+        "narrative": "Complete all required skill checks and a final project."
+    },
+    "issuer": "https://credentials.ericatrump.com/obv2/issuer.json"
+}

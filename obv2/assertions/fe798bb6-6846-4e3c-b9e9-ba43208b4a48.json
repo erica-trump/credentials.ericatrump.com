@@ -1,0 +1,14 @@
+{
+    "id": "https://credentials.ericatrump.com/obv2/assertions/fe798bb6-6846-4e3c-b9e9-ba43208b4a48.json",
+    "type": "Assertion",
+    "badge": "https://credentials.ericatrump.com/obv2/badgeclasses/complete-ml-master.json",
+    "recipient": {
+        "type": "email",
+        "hashed": false,
+        "identity": "erica.trump@gmail.com"
+    },
+    "issuedOn": "2025-11-03T21:59:17Z",
+    "verification": {
+        "type": "HostedBadge"
+    }
+}
