@@ -4,5 +4,5 @@
   "e": "AQAB",
   "alg": "RS256",
   "use": "sig",
-  "kid": "ZX851QoJ2nqycr6rAcAH-NHsi5uOtzfk8YIwSUXtm9I"
+  "kid": "https://credentials.ericatrump.com/keys/issuer-key-20251104-051000.json"
 }
