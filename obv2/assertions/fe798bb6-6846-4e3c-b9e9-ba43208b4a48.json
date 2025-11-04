@@ -1,14 +1,16 @@
 {
-    "id": "https://credentials.ericatrump.com/obv2/assertions/fe798bb6-6846-4e3c-b9e9-ba43208b4a48.json",
-    "type": "Assertion",
-    "badge": "https://credentials.ericatrump.com/obv2/badgeclasses/complete-ml-master.json",
-    "recipient": {
-        "type": "email",
-        "hashed": false,
-        "identity": "erica.trump@gmail.com"
-    },
-    "issuedOn": "2025-11-03T21:59:17Z",
-    "verification": {
-        "type": "HostedBadge"
-    }
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://credentials.ericatrump.com/obv2/assertions/fe798bb6-6846-4e3c-b9e9-ba43208b4a48.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "mailto:erica.trump@gmail.com"
+  },
+  "badge": "https://credentials.ericatrump.com/obv2/badgeclasses/complete-ml-master.json",
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "issuedOn": "2025-11-04T00:00:00Z",
+  "image": "https://credentials.ericatrump.com/obv2/images/baked-badge-fe798bb6-6846-4e3c-b9e9-ba43208b4a48.png"
 }

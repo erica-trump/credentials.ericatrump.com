@@ -1,9 +1,8 @@
 {
-    "id": "https://credentials.ericatrump.com/obv2/issuer.json",
+    "@context": "https://w3id.org/openbadges/v2",
     "type": "Issuer",
+    "id": "https://credentials.ericatrump.com/obv2/issuer.json",
     "name": "Erica Trump Consulting, LLC",
     "url": "https://ericatrump.com",
-    "email": "contact@ericatrump.com",
-    "description": "Issuer of AI and learning credentials.",
-    "image": "https://credentials.ericatrump.com/obv2/images/issuer-logo.png"
+    "email": "contact@ericatrump.com"
 }

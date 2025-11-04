@@ -1,11 +1,10 @@
 {
-    "id": "https://credentials.ericatrump.com/obv2/badgeclasses/complete-ml-master.json",
+    "@context": "https://w3id.org/openbadges/v2",
     "type": "BadgeClass",
+    "id": "https://credentials.ericatrump.com/obv2/badgeclasses/complete-ml-master.json",
     "name": "Complete ML Master",
     "description": "Mastery verified through assessments and projects.",
-    "image": "https://tomato-historical-gull-824.mypinata.cloud/ipfs/bafybeifbbrswpzzx7stexllwrhcs2gaqvqpt2chnf5haqqwhljnyxoq2gy",
-    "criteria": {
-        "narrative": "Complete all required skill checks and a final project."
-    },
+    "image": "https://credentials.ericatrump.com/obv2/images/issuer-logo.png",
+    "criteria": "https://ericatrump.com/criteria/complete-ml-master",
     "issuer": "https://credentials.ericatrump.com/obv2/issuer.json"
 }
