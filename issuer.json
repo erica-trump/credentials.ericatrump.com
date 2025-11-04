@@ -1,10 +1,10 @@
 {
   "@context": [
-    "https://www.w3.org/ns/credentials/v2",
-    "https://purl.imsglobal.org/spec/ob/v3p0/context.json"
+    "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.3.json",
+    "https://www.w3.org/ns/credentials/v2"
   ],
   "type": [
-    "Issuer"
+    "Profile"
   ],
   "id": "https://credentials.ericatrump.com/issuer.json",
   "name": "Erica Trump Consulting, LLC",
@@ -22,18 +22,6 @@
       "id": "https://credentials.ericatrump.com/keys/issuer-key-20251104-003241.json",
       "type": "JsonWebKey",
       "controller": "https://credentials.ericatrump.com/issuer.json"
-    },
-    {
-      "id": "https://credentials.ericatrump.com/keys/issuer-key-20251103-155646.json",
-      "type": "Multikey",
-      "controller": "https://credentials.ericatrump.com/issuer.json",
-      "publicKeyMultibase": "z6Mkh3MfiCnREzekGosdqaiBkouNVh33f6LdSZJYbn5RW4i8"
-    },
-    {
-      "id": "https://credentials.ericatrump.com/keys/issuer-key",
-      "type": "Ed25519VerificationKey2020",
-      "controller": "https://credentials.ericatrump.com/issuer.json",
-      "publicKeyMultibase": "z6MkpWhGMnbuH11UP3UjU6CHiYPkQ1XL19xVmtpAZCq78u2r"
     }
   ]
 }
