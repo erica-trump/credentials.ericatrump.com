@@ -1,0 +1,16 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://credentials.ericatrump.com/obv2/assertions/47e78959-8733-416b-8810-8d35019905f7.json",
+  "recipient": {
+    "type": "email",
+    "identity": "erica.trump@gmail.com",
+    "hashed": false
+  },
+  "badge": "https://credentials.ericatrump.com/obv2/badgeclasses/complete-ml-master.json",
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "issuedOn": "2025-11-05T18:41:01Z",
+  "image": "https://credentials.ericatrump.com/obv2/images/baked-badge-47e78959-8733-416b-8810-8d35019905f7.png"
+}
