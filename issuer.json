@@ -14,6 +14,24 @@
   "image": "https://ericatrump.com/logo.png",
   "publicKey": [
     {
+      "id": "https://credentials.ericatrump.com/keys/issuer-key-20251105-163552.json",
+      "type": "JsonWebKey",
+      "controller": "https://credentials.ericatrump.com/issuer.json"
+    },
+    {
+      "id": "https://credentials.ericatrump.com/keys/issuer-key-20251105-160307.json",
+      "type": "JsonWebKey",
+      "controller": "https://credentials.ericatrump.com/issuer.json",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "tO4wIt0hb3UuZ4Tk0paii9Pild9gCwoihHgshUKUThz0FJ4LGK5dslT-L2GzPVLskfjePdC9oHfcENbYWXfB3jV-sagolTiOPI_TUkpVili7rATQTnNjHZWKGTVWVkOpELldgoCz2c249_Z67AURcnrliH8jNwwvrBrmbU_V-cRFS2DKiQfYTZKz4pnwL9bg7ha7EqswyinSmVr91Tcf8BdVSS9VLK4_ZF4y-nVxzm-MDBcGXO4fkh25Iy4XUFcKn5UaKk1VXAmWbelL9uT3ngfse_Ph4qpd8boKWEsR26ZxlNUQMwLEx4VBBRB6ZPTwuA5qVHCUTQXgS9F0hDpvow",
+        "e": "AQAB",
+        "alg": "RS256",
+        "use": "sig",
+        "kid": "https://credentials.ericatrump.com/keys/issuer-key-20251105-160307.json"
+      }
+    },
+    {
       "id": "https://credentials.ericatrump.com/keys/issuer-key-20251104-061959.json",
       "type": "JsonWebKey",
       "controller": "https://credentials.ericatrump.com/issuer.json",
